@@ -1,8 +1,8 @@
 {
   "name": "bjcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BJCP Style Guidelines (2015)",
-  "main": "index.js",
+  "main": "index.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Boo-urns/bjcp.git"
